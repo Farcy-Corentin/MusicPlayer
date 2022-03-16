@@ -10,3 +10,6 @@ Music player make with html, css, js
 * Change volume
 * Mute/Unmuted sound
 * Update progress bar when song current time change
+
+### **Link:** ###
+https://farcy-corentin.github.io/MusicPlayer/
